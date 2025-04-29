@@ -25,7 +25,7 @@ This project analyzes **customer demographics, spending behaviors, income patter
 
 ## Live Dashboard
 
-[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTVkNTU2NjctNjM2ZC00NzEyLWFiYzItNzA3MzhiODNmODUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+# [Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTVkNTU2NjctNjM2ZC00NzEyLWFiYzItNzA3MzhiODNmODUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
