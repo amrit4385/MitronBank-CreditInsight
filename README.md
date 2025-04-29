@@ -42,7 +42,7 @@ The analysis is structured into **five core areas**, each corresponding to a ded
    - Examines **income distribution and utilization trends**, helping identify which customer groups have the highest potential for credit card engagement.  
 
 3. **Spending Trends**  
-   - Identifies **top spending categories**, preferred payment methods, and monthly spending patterns to refine credit card benefits and rewards programs.  
+   - Identifies **spending categories**, preferred payment methods, and monthly spending patterns to refine credit card benefits and rewards programs.  
 
 4. **Additional Insights**  
    - Highlights **behavioral correlations** within customer financial activities, uncovering connections between demographics and transaction habits to optimize marketing strategies.  
@@ -66,7 +66,7 @@ The analysis is structured into **five key dashboard pages**, each providing a u
 
 1. **Demographic Overview** – Classifies customers based on age, gender, occupation, and city.
 2. **Income Analysis** – Examines income distribution and utilization patterns.
-3. **Spending Trends** – Identifies top spending categories and payment preferences.
+3. **Spending Trends** – Identifies spending categories and payment preferences.
 4. **Additional Insights** – Highlights deeper trends and correlations within the dataset.
 5. **Executive View** – Provides a high-level summary for decision-makers.
 
@@ -131,25 +131,29 @@ Power BI was used to structure the data model, establishing relationships betwee
 
 ## Screenshots  
 
+### Cover Page
+
+![Cover Page](https://github.com/amrit4385/MitronBank-CreditInsight/blob/main/Images/cover.png)
+
 ### Demographic Overview  
 
-![Demographic Overview](path/to/demographic_screenshot.png)  
+![Demographic Overview](https://github.com/amrit4385/MitronBank-CreditInsight/blob/main/Images/Demographic%20View.png)  
 
 ### Income Analysis  
 
-![Income Analysis](path/to/income_screenshot.png)  
+![Income Analysis](https://github.com/amrit4385/MitronBank-CreditInsight/blob/main/Images/Income%20view.png)  
 
 ### Spending Trends  
 
-![Spending Trends](path/to/spending_screenshot.png)  
+![Spending Trends](https://github.com/amrit4385/MitronBank-CreditInsight/blob/main/Images/Spending%20View.png)  
 
 ### Extra Insights
 
-![Spending Trends](path/to/spending_screenshot.png)  
+![Spending Trends](https://github.com/amrit4385/MitronBank-CreditInsight/blob/main/Images/Extra%20Insights.png)  
 
 ### Executive View
 
-![Spending Trends](path/to/spending_screenshot.png)  
+![Spending Trends](https://github.com/amrit4385/MitronBank-CreditInsight/blob/main/Images/Executive%20view.png)  
 
 ---
 
