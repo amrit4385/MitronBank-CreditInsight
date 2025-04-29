@@ -29,14 +29,28 @@ This project analyzes **customer demographics, spending behaviors, income patter
 
 ---
 
-## Problem Statement
+## Problem Statement  
 
-Mitron Bank is focused on understanding key trends that influence credit card usage. Specifically, the bank aims to analyze:
+Mitron Bank seeks to enhance its credit card offerings by leveraging **data-driven insights** to develop products that align with customer financial habits and spending patterns. To achieve this, the bank aims to analyze key factors influencing **credit card adoption** and refine its strategy accordingly.  
 
-1. **Demographic Classification:** Identifying customer segments based on age, gender, occupation, and other key attributes.
-2. **Spending Behavior:** Evaluating spending patterns across various categories, and analyzing correlations with demographics.
-3. **High-Value Customer Segments:** Profiling customers most likely to use the credit card actively, based on their financial behaviors.
-4. **Credit Card Feature Recommendations:** Suggesting valuable features backed by data insights and additional research to optimize credit card adoption.
+The analysis is structured into **five core areas**, each corresponding to a dedicated Power BI dashboard page:  
+
+1. **Demographic Overview**  
+   - Classifies customers based on **age group, gender, occupation, and city** to define key user segments for targeted credit card marketing.  
+
+2. **Income Analysis**  
+   - Examines **income distribution and utilization trends**, helping identify which customer groups have the highest potential for credit card engagement.  
+
+3. **Spending Trends**  
+   - Identifies **top spending categories**, preferred payment methods, and monthly spending patterns to refine credit card benefits and rewards programs.  
+
+4. **Additional Insights**  
+   - Highlights **behavioral correlations** within customer financial activities, uncovering connections between demographics and transaction habits to optimize marketing strategies.  
+
+5. **Executive View**  
+   - Provides a **high-level summary** of key metrics, customer segmentation, and strategic insights to assist Mitron Bank’s leadership in **decision-making** regarding the credit card rollout.  
+
+By focusing on these aspects, Mitron Bank aims to develop a **tailored credit card offering** that increases customer adoption, enhances financial usability, and aligns with evolving market trends.  
 
 ---
 
@@ -60,7 +74,8 @@ The analysis is structured into **five key dashboard pages**, each providing a u
 
 ## Tools Used
 
-- **Microsoft Excel** – Data Cleaning & Transformation
+- **Microsoft Excel** – Data Cleaning & Preprocessing
+- **Power Query** – Data Transformation & ETL (Extract, Transform, Load)
 - **Power BI** – Data Analysis & Visualization
 
 ---
@@ -101,6 +116,8 @@ Tracks spending patterns and payment preferences:
 
 Power BI was used to structure the data model, establishing relationships between customer attributes and transaction records to generate actionable insights.
 
+![Data Model](https://github.com/amrit4385/MitronBank-CreditInsight/blob/main/Images/Screenshot%20(239).png)
+
 ---
 
 ## Data Processing
@@ -109,6 +126,30 @@ Power BI was used to structure the data model, establishing relationships betwee
 - **Income Utilization Percentage** – Avg_spends vs. avg_income to assess likelihood of credit card usage.
 - **Segmentation Analysis** – Identifying customer groups based on demographics and spending behavior.
 - **Trend Observations** – Analyzing monthly spending cycles and payment preferences.
+
+---
+
+## Screenshots  
+
+### Demographic Overview  
+
+![Demographic Overview](path/to/demographic_screenshot.png)  
+
+### Income Analysis  
+
+![Income Analysis](path/to/income_screenshot.png)  
+
+### Spending Trends  
+
+![Spending Trends](path/to/spending_screenshot.png)  
+
+### Extra Insights
+
+![Spending Trends](path/to/spending_screenshot.png)  
+
+### Executive View
+
+![Spending Trends](path/to/spending_screenshot.png)  
 
 ---
 
